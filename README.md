@@ -14,13 +14,11 @@ In my analysis, I focused on how different factors can affect the average screen
 
 ### Screen-on Time by Gender:
 - The average screen-on time is nearly identical for both male and female users, at approximately 5.3 hours per day. This suggests that gender does not play a significant role in influencing screen-on time, and user behavior in terms of device usage might be more driven by other factors.
-
+ ![](https://github.com/Ftsem/Mobile-Device-Usage-and-User-Behavior-Dataset/blob/6f28e29918558a6050f493fdb932ec871cb86df2/assets/Screenshot%202025-04-09%20121619.png)
 ### Screen-on Time by Age:
 - There is noticeable fluctuation in screen-on time across different age groups. Younger users (in their 20s and early 30s) tend to have higher screen-on times, which decreases slightly as users age. However, the average remains around 5 hours throughout the age spectrum, showing that while younger users might spend more time on their phones, the decline with age is not drastic.
 - This indicates that mobile engagement is quite consistent across age groups, with minor dips observed in the later years.
-
-### Device Model:
-- The report includes specific device models (Google Pixel 5, iPhone 12, OnePlus 9), but this part of the report seems to lack detailed insights into how device choice might affect screen-on time. It would be interesting to compare user behavior across these models and see if there's any device-specific trend.
+ ![](https://github.com/Ftsem/Mobile-Device-Usage-and-User-Behavior-Dataset/blob/6f28e29918558a6050f493fdb932ec871cb86df2/assets/Screenshot%202025-04-09%20112345.png)
 
 ## Recommendations to Increase Screen-on Time (User Engagement)
 
