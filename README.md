@@ -10,6 +10,8 @@ In my analysis, I focused on how different factors can affect the average screen
 - There is a clear trend showing that Android users have a slightly higher average screen-on time (5.43 hours) compared to iOS users (5.23 hours). This difference, while modest, could suggest that Android users are spending more time interacting with their devices daily.
 - This may be due to various factors such as Android's customization options, app variety, or the overall user interface which might engage users more frequently.
 
+  ![](https://github.com/Ftsem/Mobile-Device-Usage-and-User-Behavior-Dataset/blob/ace4913f370c986427f019116433738610a32607/assets/Screenshot%202025-04-09%20112312.png)
+
 ### Screen-on Time by Gender:
 - The average screen-on time is nearly identical for both male and female users, at approximately 5.3 hours per day. This suggests that gender does not play a significant role in influencing screen-on time, and user behavior in terms of device usage might be more driven by other factors.
 
